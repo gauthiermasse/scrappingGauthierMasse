@@ -10,7 +10,7 @@ Exo b
 Lorsqu'il tourne, le programme affiche chaque nouveau Hash qu'il stocke dans le tableau, une fois qu'il a terminé il affiche le tableau et sa taille (1565), et il reprend 3600 secondes = 1h plus tard
 
 Exo c
-Mon programme ne fonctionne pas
+Mon programme ne fonctionne pas, je n'arrive pas à récupérer les codes postaux
 
 Merci pour la correction bon week-end à toi!
 
